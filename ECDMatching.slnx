@@ -1,0 +1,25 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Include/">
+    <File Path="Include/ECD.h" />
+    <File Path="Include/ECD.inl" />
+    <File Path="Include/LocalFit.h" />
+    <File Path="Include/LocalFit.inl" />
+    <File Path="Include/PreProcessor.h" />
+  </Folder>
+  <Project Path="../../../../../../Research/ECD/ForRelease/ECDMatching/ECDMatching.vcxproj" Id="af2cba7b-7767-4e7a-a21e-31be8ff817da" />
+  <Project Path="third_party/JPEG/JPEG.vcxproj" Id="0be55595-4080-4265-82af-51108ec956b2">
+    <BuildType Project="Release" />
+    <Platform Project="x64" />
+  </Project>
+  <Project Path="third_party/PNG/PNG.vcxproj" Id="b5899b32-fac2-477e-99aa-86736b97f2fc">
+    <BuildType Project="Release" />
+    <Platform Project="x64" />
+  </Project>
+  <Project Path="third_party/ZLIB/ZLIB.vcxproj" Id="d3d173ab-d306-4179-bec4-95ce1b14e647">
+    <Platform Project="x64" />
+  </Project>
+</Solution>

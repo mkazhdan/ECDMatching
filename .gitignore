@@ -1,0 +1,8 @@
+x64/
+Bin/
+.vs/
+*.tlog
+*.user
+*.filters
+*.zip
+*.o
