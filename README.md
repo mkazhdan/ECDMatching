@@ -15,15 +15,15 @@ This software supports the comparison of two images through the computation and 
 <a href="https://www.cs.jhu.edu/~misha/MyPapers/ArXiv20.pdf">[Mitchel, Brown, Koller, Weyrich, Rusinkiewicz, and Kazhdan, 2020]</a>
 <br>
 <b>Executables: </b>
-<a href="https://www.cs.jhu.edu/~misha/Code/ECD/Version1.00/ECD.x64.zip">Win64</a><br>
+<a href="https://www.cs.jhu.edu/~misha/Code/ECDMatching/Version1.00/ECD.x64.zip">Win64</a><br>
 <b>Source Code:</b>
-<a href="https://www.cs.jhu.edu/~misha/Code/ECD/Version1.00/ECD.Source.zip">ZIP</a> <a href="https://github.com/mkazhdan/ECD">GitHub</a><br>
+<a href="https://www.cs.jhu.edu/~misha/Code/ECDMatching/Version1.00/ECD.Source.zip">ZIP</a> <a href="https://github.com/mkazhdan/ECDMatching">GitHub</a><br>
 <B>Data:</B>
-<A HREF="https://www.cs.jhu.edu/~misha/Code/ECD/ECD.Data.zip">ZIP</A><br>
+<A HREF="https://www.cs.jhu.edu/~misha/Code/ECDMatching/ECD.Data.zip">ZIP</A><br>
 <!--
 <b>Older Versions:</b>
-<a href="https://www.cs.jhu.edu/~misha/Code/ECD/Version1.10/">V1.00</a>,
-<a href="https://www.cs.jhu.edu/~misha/Code/ECD/Version1.00/">V1.00</a>
+<a href="https://www.cs.jhu.edu/~misha/Code/ECDMatching/Version1.10/">V1.00</a>,
+<a href="https://www.cs.jhu.edu/~misha/Code/ECDMatching/Version1.00/">V1.00</a>
 -->
 </ul>
 <hr>
@@ -120,3 +120,4 @@ In this case the sum of distances from each target will be written out to separa
 </ul>
 
 </details>
+
